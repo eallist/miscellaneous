@@ -1,0 +1,3 @@
+[user]
+	email = erica.alliston@gmail.com
+	name = Erica
